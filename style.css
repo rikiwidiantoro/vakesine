@@ -5,12 +5,11 @@ body {
     /* width: 100%; */
     /* position: relative; */
 }
-div {
+/* div {
     border: 1px solid black;
-}
+} */
 .container {
     display: flex;
-    padding: 0px 100px;
 }
 
 
@@ -134,11 +133,11 @@ div {
 .main-isi {
     display: flex;
 }
-.main-isi i {
+/* .main-isi i {
     width: 8%;
     margin-top: 18px;
     font-size: 1.5em;
-}
+} */
 .main-isi .tulis {
     width: 92%;
 }
@@ -206,13 +205,13 @@ div {
     margin-top: 25px;
 } */
 .main2-tulisan h1 {
-    font-size: 33px;
+    /* font-size: 33px; */
     font-weight: 700;
 }
-.main2-tulisan li {
+/* .main2-tulisan li {
     font-size: 21px;
     line-height: 40px;
-}
+} */
 
 
 
